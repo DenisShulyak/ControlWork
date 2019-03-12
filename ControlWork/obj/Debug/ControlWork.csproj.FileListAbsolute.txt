@@ -1,0 +1,7 @@
+C:\Users\ШулякД\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe.config
+C:\Users\ШулякД\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe
+C:\Users\ШулякД\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.pdb
+C:\Users\ШулякД\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csprojAssemblyReference.cache
+C:\Users\ШулякД\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\ШулякД\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.exe
+C:\Users\ШулякД\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.pdb
